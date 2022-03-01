@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno sexto &amp; septimo Gulielmi III. Regis. An act to prevent counterfeiting and clipping the coin of this kingdom.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02966</idno>
+            <idno type="STC">Wing E1153AC</idno>
+            <idno type="STC">ESTC R175051</idno>
+            <idno type="EEBO-CITATION">52614647</idno>
+            <idno type="OCLC">ocm 52614647</idno>
+            <idno type="VID">175860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175860)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2753:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno sexto &amp; septimo Gulielmi III. Regis. An act to prevent counterfeiting and clipping the coin of this kingdom.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1694-1702 : William III).</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Counterfeits and counterfeiting --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:175860:1" rendition="simple:additions"/>
+            <head>Anno Sexto &amp; Septimo Gulielmi III. Regis.</head>
+            <head>An Act to Prevent Counterfeiting and Clipping the <hi>COIN</hi> of this Kingdom.</head>
+            <p>WHereas it is Manifeſt that of late Years the Currant Coin of this Kingdom hath been greatly Diminiſhed by Clipping, Rounding, Filing and Melting the ſame, and likewiſe many Falſe and Counterfeit Coins have been Clipped for the better Diſguiſing thereof:</p>
+            <p>And for as much as it is Apparent that theſe Practices of Diminiſhing the Currant Coin is very much occaſioned by thoſe who Drive a Trade of Exchanging Broad Money for Clip<g ref="char:EOLhyphen"/>ped Money, and by other Arts and Devices.</p>
+            <p>Be it therefore Enacted by the Kings moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in Parliament aſſembled, and by the Authority of the ſame, That from, and after the Firſt Day of <hi>May,</hi> which ſhall be in the Year of our Lord, One thouſand ſix hundred ninty five, if any Perſon or Perſons whatſo<g ref="char:EOLhyphen"/>ever, ſhall at any one Time or Payment, Exchange, Lend, Sell, Borrow or Buy, Receive or Pay any Broad Silver Money, or Silver Money Unclipt, of the Coin of this Kingdom, for more in Tale, Benefit, Profit or Advantage than the ſame was Coined for, and ought by Law to go for, be Lent, Sold for, Borrowed or Bought, Received or Paid, ſhall Forfeit the Sum of ten Pounds for every twenty Shillings that ſhall be ſo Exchanged, Lent, Sold, Borrowed or Bought, Received or Paid, and ſo in proportion for any Greater or Leſſer Sum, One Moie<g ref="char:EOLhyphen"/>ty thereof to His Majeſty, and the other Moiety to the Perſon who ſhall Sue or Inform for the ſame, to be Recovered (with Coſts of Suit) by Action of Debt, Bill, Plaint or Informa<g ref="char:EOLhyphen"/>tion, wherein no Priviledge, Protection or Wager of Law ſhall be allowed, nor any more than One Imparlance.</p>
+            <p>And be it further Enacted by the Authority aforeſaid. That no Perſon do or ſhall preſume to caſt Ingots or Bars of Silver, in imitation of <hi>Spaniſh</hi> Bars or Ingots of Silver, nor do Stamp any Mark or Impreſſion upon any Ingot or Bar in Likeneſs of the <hi>Spaniſh</hi> Marks or Impreſſi<g ref="char:EOLhyphen"/>ons, upon pain that the Perſon herein Offending, ſhal for every ſuch Offence Forefeit the Silver ſo caſt, and alſo the Sum of Five hundred Pounds, one Moiety to his Majeſty, and the other to the Informer, to be Recovered, as aforeſaid.</p>
+            <p>And for the better preventing the Clipping, Diminiſhing or Impairing the Currant Coin of this Kingdom; Be it further Enacted by the Authority aforeſaid, That if any Perſon what<g ref="char:EOLhyphen"/>ſoever ſhal Buy or Sell, and knowingly have in his Cuſtody or Poſſeſſion, any Clippings or Filings of the Currant Coin of this Kingdom, he ſhal for every ſuch Offence forefeit the ſaid Clippings or Filings, and alſo the Sum of Five hundred Pounds, One Moiety to his Majeſty, and the other to the Informer, to be Recovered, as aforeſaid, and ſhal be alſo Branded in the Right Cheek with a Hot Iron with the Letter <hi>R,</hi> and until payment of the ſaid Five hun<g ref="char:EOLhyphen"/>dred Pounds ſhal ſuffer Impriſonment.</p>
+            <p>And be it further Enacted, That no Gold-ſmith or other Perſon whatſoever, ſhal, from and after the ſaid firſt Day of <hi>May,</hi> Tranſport, or cauſe to be Tranſported out of this Kingdom of <hi>England,</hi> into any parts beyond the Seas, any Molten Silver whatſoever, but ſuch only as ſhal be Marked or Stamped at <hi>Goldſmith-hall</hi> by the Wardens, ſome or one of them belonging to the ſaid Company of Gold-ſmiths; which Mark or Stamp the ſaid Wardens are hereby requi<g ref="char:EOLhyphen"/>red
+<pb n="2" facs="tcp:175860:2"/>
+to provide, and therewith to Mark or Stamp all ſuch Silver as ſhal be proved before them, or one of them, in ſuch manner as is hereafter mentioned to be lawful Silver, nor unleſs a Cer<g ref="char:EOLhyphen"/>tificate be firſt had and obtained under the Hand of one or more of the ſaid Wardens, of Oath having been made before him or them, by the Owner or Owners of ſuch Molten Silver, and likewiſe by one Credible Witneſs, that the ſame is lawful Silver, and that no part thereof was (before the ſame was Molten) the Currant Coin of this Realm, nor Clippings thereof, nor Plate wrought within this Kingdom; which Oath the ſaid Wardens, or any of them, are and is hereby Required and Authorized to Adminiſter, and likewiſe to make and grant a Certificate thereof, without Fee or Reward, an Entry of which Certificate ſhall be duly made by the ſaid Wardens, in a Book to be kept for that purpoſe; And in caſe any Perſon whatſoever who ſhal offer any Molten Silver to be Marked, as is aforeſaid, ſhal not prove by his or her Oath, and likewiſe by the Oath of one Credible Witneſs, that the Silver offered to be Marked is lawful Silver, and that the ſame was not before the Melting thereof the Currant Coin of this Kingdom, nor Clippings thereof, nor Plate wrought within the ſame, then and in every ſuch Caſe it ſhal be Lawful, to, and for the ſaid Wardens, or any one of them, to Seize and Detain ſuch Molten Silver ſo offered to be Marked, until ſuch time as ſuch Oath and Proof ſhal be made, as is aforeſaid.</p>
+            <p>And be it further Enacted, That if any Perſon whatſoever ſhal ſhip, or cauſe to be ſhipt or put on Board any Veſſel any Molten Silver, not Stamped or Marked by the ſaid Wardens, or one of them, and without Certificate firſt obtained, of Oath having been before the ſaid Wardens, or one of them, of the Lafulneſs of ſuch Silver in manner, as is aforeſaid, (which Certificate ſhal be ſhown to ſome one of the Commiſſioners of the Cuſtoms for the time being, before any Cocket be granted for the Exporting ſuch Molten Silver) in ſuch caſe, it ſhal and may be lawful, to and for any Officer or Officers of his Majeſties Cuſtoms, to ſeize ſuch Sil<g ref="char:EOLhyphen"/>ver ſo ſhipped, and put on Board, one Moiety whereof ſhal be to his Majeſty, his Heirs and Succeſſors, and the other Moiety to the Officer and Officers ſo ſeizing the ſame.</p>
+            <p>And be it further Enacted, That if any Broger, or Broker, not being a Trading Gold<g ref="char:EOLhyphen"/>ſmith or Refiner of Silver, ſhall buy or ſell any Bullion, or molten Silver, every ſuch perſon ſhall ſuffer for every ſuch Offence, Impriſonment for ſix Months, without Bail or Mainprize.</p>
+            <p>And for the better Diſcovery of Offenders in the Premiſſes, Be it further Enacted by the Authority aforeſaid, That it ſhall and may be lawful, to and for one or more of the Wardens of the ſaid Company of Goldſmiths, with any Two or more of the Court of Aſſiſtants of the ſaid Company, within the Compaſs of the Weekly Bills of Mortality, and to and for any two Juſtices of the Peace within any County, City, or Town Corporat out of the Compaſs of the Weekly Bills of Mortality, to enter, into the Houſe, Room or Workſhop of any perſon, who ſhall be ſuſpected to be Guilty of buying or ſelling unlawful Bullion, and to ſearch for the ſame; and in caſe the Occupier or Occupiers of ſuch Houſe, Room or Workſhop, ſhall refuſe to permit the ſaid Warden and Aſſiſtants, or Juſtices to make ſuch ſearch, as afore<g ref="char:EOLhyphen"/>ſaid, it ſhall and may be lawful to ſuch Warden and Aſſiants and Juſtices, with the aſſiſtance of a Conſtable, to break open any Door, Box, Trunk, Cheſt, Cupboard or Cabinet, in order to ſearch for, and diſcover ſuch Bullion, as is aforeſaid, and in caſe the perſons ſo ſearching, ſhall at any time find any ſuch unlawful Bullion, the perſons ſo finding the ſame, are hereby required to ſeize, as well ſuch Bullion, as the perſon and perſons in whoſe poſſeſſion the ſame ſhall be found; and the ſaid Wardens, Aſſiſtants and Conſtables, ſhall bring him and her be<g ref="char:EOLhyphen"/>fore the next Juſtice of the Peace, who ſhall, upon Oath made of ſuch finding, which Juſtice within the Weekly Bills of Mortality, and the ſaid two Juſtices without the ſaid Bills of Mor<g ref="char:EOLhyphen"/>tality, ſhall and may examine the perſon ſo brought before him, or found by them reſpective<g ref="char:EOLhyphen"/>ly, upon Oath, whether the Bullion ſo found, be lawful Silver, and whether the ſame was not (before the melting thereof) the currant Coin of this Realm, or Clippings thereof; and in caſe the ſaid perſon ſo examined, ſhall not prove by his or her Oath, or by the Oath of one cre<g ref="char:EOLhyphen"/>dible Witneſs, before the ſaid Juſtice and Juſtices reſpectively, that the Bullion ſo found is lawful Silver, and that the ſame was not before the melting thereof, the currant Coin of this Realm, nor Clippings thereof, then and in ſuch caſe the ſaid Juſtice or Juſtices reſpectively, ſhall commit the perſon ſo examined to Priſon, and ſhall ſecure the Bullion ſo found, and ſhall likewiſe oblige the perſons that can give any Evidence concerning the ſame, to enter into a Recognizance, to proſecute the ſaid Offender and Offenders; And in caſe ſuch Offender and Offenders, in whoſe poſſeſſion ſuch unlawful Bullion ſhall be found, ſhall not upon
+<pb n="3" facs="tcp:175860:2"/>
+his, her or their Tryals on an Indictment for melting the currant ſilver Coin of this Re<g ref="char:EOLhyphen"/>alm, prove by the Oath of one credible Witneſs at the leaſt, the Bullion ſo found to be lawful Silver, and that the ſame was not the currant Coin of this Realm, nor Clippings thereof, then, and for want of ſuch Proof, ſuch Offender ſhall be found guilty of the Offence con<g ref="char:EOLhyphen"/>tained in ſuch Indictment, and ſhall ſuffer Impriſonment for the ſpace of ſix Months, without Bail or Mainprize.</p>
+            <p>And whereas the Coin of this Realm is of late much Clipped and Counterfitted for want of due Encouragement to be given to ſuch perſons as ſhall Diſcover the ſame. Be it Enact<g ref="char:EOLhyphen"/>ed by the Authority aforeſaid, that from and after the ſaid firſt day of <hi>May,</hi> One thouſand ſix hundred ninety five, all and every perſon and perſons, who ſhall apprehend and take any perſon or perſons, who have Counterfeited any of the currant Coin of this Realm, or that for Lucre or Gain, have Clipped, Waſhed, Filed, or any ways diminiſhed the ſame, or ſhall bring, or cauſe to be brought into this Kingdom, the Dominion of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> any Clipt, Falſe or Counterfeit Coin, and proſecute ſuch perſon or perſons, until he, ſhe or they be convicted for any ſuch Offence, ſhall have and receive from the Sheriff or Sheriffs of the County, where ſuch Conviction ſhall be made, for every ſuch Offender ſo convicted, the Sum of forty Pounds (without paying any Fee for the ſame) within One Month after ſuch Conviction and Demand thereof made, by tendring a Certifi<g ref="char:EOLhyphen"/>cate to the ſaid Sheriff or Sheriffs for the time being, under the Hand or Hands of the Judge or Juſtices before whom ſuch Traytor or Traytors, Offender or Offenders, as aforeſaid ſhall be Convicted, Certifying the conviction of ſuch Traytor or Traytors, done within the Coun<g ref="char:EOLhyphen"/>ty of the ſaid Sheriff or Sheriffs; and that ſuch Traytor or Traytors, was or were taken and proſecuted by the perſon or perſons, claiming the ſaid Reward, which Certificat as a<g ref="char:EOLhyphen"/>foreſaid, the ſaid Judge or Juſtices, are hereby Required to give: and in caſe any Diſpute ſhall happen to ariſe, between the perſons apprehending, and proſecuting to Conviction ſuch Traytors as aforeſaid, touching their Right and Title to the ſaid Reward, that then the ſaid Judge or Juſtices ſo reſpectively Certifying as aforeſaid, ſhall in and by their ſaid Certificat, direct and appoint the ſaid Reward to be payed unto, and amongſt the Parties claiming the ſame, in ſuch ſhare and proportions as to the ſaid Judge or Juſtices ſhall ſeem juſt and reaſonable: And if default of payment of the ſaid Sum or Sums of Money ſhall happen to be made by any Sheriff or Sheriffs, ſuch Sheriff and Sheriffs ſo making Default, ſhall Forfeit to the perſon or perſons to whom ſuch Money is due as aforeſaid, double the Sum or Sums of Money he ought to have payed, to be Recovered by him or them, or his or their Executors or Adminiſtrators, in any of His Majeſties Courts of Record at <hi>Weſtminſter,</hi> by Action of Debt, Bill, Plaint or Information, wherein but one Imparlance, and no Effoign, Protection or Wager of Law ſhall be allowed, with treble Coſts of Suit by him, or them Expended in recovery of the ſame.</p>
+            <p>And it is hereby further Enacted, that all Sheriffs, their Executors or Adminiſtrators, up<g ref="char:EOLhyphen"/>on producing ſuch reſpective Certificats, and the Receipts for the Money by them payed in purſuance of this Act, ſhall be allowed, and are hereby Impowered to deduct upon their Ac<g ref="char:EOLhyphen"/>compting with His Majeſty, all Moneys (other than the double Sum or Sums of Money and Coſts of Suit) which they ſhall Disburſe as aforeſaid, without any Fee or Reward whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>Provided always, that if upon the Account of any Sheriff or Sheriffs, there ſhall not be Money ſufficient in the hands of ſuch Sheriff or Sheriffs to Reimburſe him or them ſuch Moneys payed by him or them, by vertue of this Act, That then the Sheriff or She<g ref="char:EOLhyphen"/>riffs having ſo payed the ſaid Moneys, ſhall have the ſame Repayed by the Lord Treaſurer, or Commiſſioners of His Majeſties Treaſury for the time being, out of the Revenue of the Crown, upon Certificat from the Clerk of the Pipe to that Effect.</p>
+            <p>And be it further Enacted, by the Authority aforeſaid, that if any perſon or perſons, being out of Priſon, ſhall, from and after the firſt day of <hi>May,</hi> One thouſand ſix hundred ninety five, be guilty of Clipping, Coyning, Counterfeiting, Waſhing, Filing, or otherwiſe diminiſhing the Coyn of this Realm, and afterwards diſcover two or more perſon or perſons, who already have, or hereafter ſhall commit any of the ſaid Crimes, ſo as two or more of the perſon or perſons Diſcovered ſhall be Convicted of the ſame, any ſuch Diſcoverer ſhall himſelf have, and is hereby Intituled to the Gracious Pardon of His Majeſty, His Heirs and Succeſſors, for all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch his Crimes which he or they have committed at any time, or times before ſuch Diſcove<g ref="char:EOLhyphen"/>ry
+<pb n="4" facs="tcp:175860:3" rendition="simple:additions"/>
+made: and if the perſon making ſuch Diſcovery be an Apprentice, he ſhall be Deemed and taken, and is hereby declared a Freeman, and ſhall have, and may exerciſe any lawful Trade, Profeſſion or Myſtery, with all Liberties and Priviledges, and in as full and ample manner, as if the ſaid perſon had ſerved the full time of his Apprenticeſhip; any Law, Statute, Cuſtom or Ordinance, to the contrary notwithſtanding.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That in caſe any Seizure ſhal hap<g ref="char:EOLhyphen"/>pen of any Bullion ſhipt to be Exported, and a Doubt ariſe thereon whether the ſame be <hi>Engliſh</hi> or Foreign Bullion, that then the Proof ſhall lie upon the Owner, Claimer or Expor<g ref="char:EOLhyphen"/>ter of ſuch Bullion, that the ſame is Foreign Bullion, and had not been melted down in this Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed.</hi>
+            </p>
+            <p>And be it further Enacted by the Authority aforeſaid, That in caſe any Perſon or Perſons enter or ſhip any Bullion, allowed by this Act to be exported beyond the Seas, other than in the Name of the true Owner and Proprietor or Importer, the Exporter thereof ſhal forefeit the ſame, or the full Value thereof, one Moiety to his Mejeſty, his Heirs and Succeſſors, and the other Moiety to the Perſon who ſhal ſeize or diſcover the ſame.</p>
+            <p>Provided always, and be it further Enacted, That this Act, or any thing therein contained, ſhal not extend to prohibit the Exportation of ſuch Bullion as ſhal be Licenſed by his Ma<g ref="char:EOLhyphen"/>jeſty (ſuch Licences being Entred in the Books of the Cuſtom Houſe for the Port of <hi>London</hi>) ſo as the ſame be Exported before the firſt day of <hi>January,</hi> One thouſand ſix hundred ninety five, and do not exceed Seven hundred thouſand Ounces of Silver, to be applied for the Payment of his Majeſties Forces.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>EDINB<g ref="char:V">Ʋ</g>RGH, Re-printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Prin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to His moſt Excellent Majeſty, <hi>Anno Dom. 1695.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
